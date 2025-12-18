@@ -1,5 +1,5 @@
 class Apple extends ObjetoJogo {
-    arqImagem="\img\\apple.png";
+    arqImagem="\img\\cenoura.png";
     imagem;
     constructor(valor,...args){
         super(args);
